@@ -1,0 +1,23 @@
+# UNICOM Trading & Services
+
+> UNICOM is business software for inventory, point of sale, accounting and connected workflows. The product is evolving with online dashboard access, AI integration and custom API integration.
+
+UNICOM serves businesses that want to preserve useful operating knowledge while making room for clearer online access and integrations. The exact scope and compatibility of an implementation should be confirmed with UNICOM.
+
+## Main pages
+
+- [Home](https://unicom-lb.com/): UNICOM overview and current featured invitation.
+- [Platform](https://unicom-lb.com/platform/): Inventory, accounting, online dashboard, AI and API capabilities.
+- [Products and hardware](https://unicom-lb.com/products/): Point-of-sale, scale, barcode, printer and data-collection workflows documented for UNICOM. Ask UNICOM to confirm device compatibility.
+- [Support center](https://unicom-lb.com/support/): Browse or search support topics.
+- [Searchable manual](https://unicom-lb.com/manual/): Searchable text and original page images from the UNICOM software manual.
+- [Original manual PDF](https://unicom-lb.com/UNICOM%20MANUAL.pdf): Source document, dated 2019.
+- [Journal](https://unicom-lb.com/journal/): Practical articles about operations, inventory and software.
+- [Contact](https://unicom-lb.com/contact/): Ask about software, onboarding, dashboard, AI, APIs, hardware or promotions.
+
+## Source and accuracy notes
+
+- The searchable manual and its screen images come from a 2019 document. Menu names and interface screenshots describe that edition and may not reflect newer online features.
+- Online dashboard, AI and custom API integration are described as available capabilities; implementation details are not public on this website.
+- Hardware categories reflect the manual. Specific models, stock, pricing and compatibility must be confirmed directly with UNICOM.
+- Contact: [info@unicom-lb.com](mailto:info@unicom-lb.com).
