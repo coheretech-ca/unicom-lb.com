@@ -4,7 +4,7 @@ A dependency-free static website for UNICOM Trading & Services. It introduces th
 
 ## Preview with GitHub Pages
 
-The `Deploy GitHub Pages preview` workflow publishes on pushes to `main` and `website-refresh`. In the repository settings, set **Pages → Build and deployment → Source** to **GitHub Actions** if it is not already selected. After a successful run, the preview URL is `https://coheretech-ca.github.io/unicom-lb.com/`.
+The `Deploy GitHub Pages preview` workflow publishes on pushes to `main` and `website-refresh`. A repository admin must enable Pages and set **Settings → Pages → Build and deployment → Source** to **GitHub Actions**. The first deployment currently stops until Pages is enabled. After a successful run, the preview URL is `https://coheretech-ca.github.io/unicom-lb.com/`.
 
 The preview builder adds the project-path prefix, marks preview pages `noindex`, and omits the production sitemap. It does not configure a custom domain or change DNS. GitHub Pages sites are public on the internet even when their source repository is private; private-repository Pages requires an eligible GitHub plan. If this repository is not eligible, Pages must be enabled by upgrading the plan or making the repository public.
 
